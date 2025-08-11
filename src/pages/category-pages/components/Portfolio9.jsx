@@ -1,6 +1,6 @@
 "use client";
 
-import { Badge, Button, Card } from "@relume_io/relume-ui";
+import { Badge, Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
 
@@ -18,7 +18,7 @@ export function Portfolio9() {
           </p>
         </div>
         <div className="columns-1 after:block md:columns-2 md:gap-x-8 lg:gap-x-12">
-          <Card className="mb-12 break-inside-avoid">
+          <div className="mb-12 break-inside-avoid border rounded-lg shadow-sm bg-white p-4">
             <div>
               <a href="#">
                 <img
@@ -54,8 +54,8 @@ export function Portfolio9() {
                 <a href="#">View project</a>
               </Button>
             </div>
-          </Card>
-          <Card className="mb-12 break-inside-avoid">
+          </div>
+          <div className="mb-12 break-inside-avoid border rounded-lg shadow-sm bg-white p-4">
             <div>
               <a href="#">
                 <img
@@ -93,8 +93,8 @@ export function Portfolio9() {
                 <a href="#">View project</a>
               </Button>
             </div>
-          </Card>
-          <Card className="mb-12 break-inside-avoid">
+          </div>
+          <div className="mb-12 break-inside-avoid border rounded-lg shadow-sm bg-white p-4">
             <div>
               <a href="#">
                 <img
@@ -130,8 +130,8 @@ export function Portfolio9() {
                 <a href="#">View project</a>
               </Button>
             </div>
-          </Card>
-          <Card className="mb-12 break-inside-avoid">
+          </div>
+          <div className="mb-12 break-inside-avoid border rounded-lg shadow-sm bg-white p-4">
             <div>
               <a href="#">
                 <img
@@ -170,7 +170,7 @@ export function Portfolio9() {
                 <a href="#">View project</a>
               </Button>
             </div>
-          </Card>
+          </div>
         </div>
         <div className="mt-6 flex justify-center md:mt-8">
           <Button title="View all" variant="secondary" size="primary">
