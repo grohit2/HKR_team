@@ -1,8 +1,14 @@
 "use client";
 
-import { Badge, Button, Card } from "@relume_io/relume-ui";
+import { Badge, Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
+
+const Card = ({ className = "", children }) => (
+  <div className={`rounded-lg border border-border-primary bg-background-secondary ${className}`}>
+    {children}
+  </div>
+);
 
 export function Portfolio9() {
   return (
