@@ -25,10 +25,14 @@ export function Header1() {
             </div>
           </div>
           <div>
-            <img
-              src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+            <video
+              src="/career-success-hero-animation.mp4"
               className="w-full rounded-image object-cover"
-              alt="Relume placeholder image"
+              autoPlay
+              loop
+              muted
+              playsInline
+              alt="Career success animation"
             />
           </div>
         </div>

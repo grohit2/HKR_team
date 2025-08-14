@@ -16,10 +16,14 @@ export function Layout240() {
         <div className="grid grid-cols-1 items-start justify-center gap-y-12 md:grid-cols-3 md:gap-x-8 md:gap-y-16 lg:gap-x-12">
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/success-path-simple-effective.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Your path to success starts here video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
@@ -37,10 +41,14 @@ export function Layout240() {
           </div>
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/company-hiring-process.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Company hiring process video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
@@ -56,10 +64,14 @@ export function Layout240() {
           </div>
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/onboarding-support-process.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Onboarding support process video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">

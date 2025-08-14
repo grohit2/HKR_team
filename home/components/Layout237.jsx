@@ -25,7 +25,7 @@ export function Layout237() {
               <div className="rb-5 mb-5 md:mb-6">
                 <img
                   src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                  alt="Relume logo 1"
+                  alt="Access exclusive job openings icon"
                   className="size-12"
                 />
               </div>
@@ -38,7 +38,7 @@ export function Layout237() {
               <div className="rb-5 mb-5 md:mb-6">
                 <img
                   src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                  alt="Relume logo 1"
+                  alt="Personal recruiter advocate icon"
                   className="size-12"
                 />
               </div>
@@ -51,7 +51,7 @@ export function Layout237() {
               <div className="rb-5 mb-5 md:mb-6">
                 <img
                   src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                  alt="Relume logo 1"
+                  alt="Professional community network icon"
                   className="size-12"
                 />
               </div>

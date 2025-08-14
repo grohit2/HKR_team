@@ -16,10 +16,14 @@ export function Layout240_1() {
         <div className="grid grid-cols-1 items-start justify-center gap-y-12 md:grid-cols-3 md:gap-x-8 md:gap-y-16 lg:gap-x-12">
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/onboarding-support-process.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Find the perfect fit for your remote workforce video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
@@ -37,10 +41,14 @@ export function Layout240_1() {
           </div>
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/team-potential-expert-talent.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Unlock your team's potential with expert talent video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
@@ -57,10 +65,14 @@ export function Layout240_1() {
           </div>
           <div className="flex w-full flex-col items-center text-center">
             <div className="rb-6 mb-6 md:mb-8">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                alt="Relume placeholder image"
-                className="rounded-image"
+              <video
+                src="/tailored-solutions-every-role.mp4"
+                className="rounded-image w-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+                alt="Tailored solutions for every role in your organization video"
               />
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
