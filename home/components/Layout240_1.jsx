@@ -34,7 +34,12 @@ export function Layout240_1() {
               specialties.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
+              <Button 
+                iconRight={<RxChevronRight />} 
+                variant="link" 
+                size="link"
+                onClick={() => window.open('https://scarlet-knave-234.notion.site/Aspire-EASE-Unlock-Your-Career-Potential-24f02cd76a2180649a38d3310630ea69', '_blank')}
+              >
                 Learn More
               </Button>
             </div>

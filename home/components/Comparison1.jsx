@@ -83,7 +83,13 @@ export function Comparison1() {
 
           {/* CTAs */}
           <div className="mt-12 flex flex-wrap items-center justify-center gap-4 md:mt-18 lg:mt-20">
-            <Button title="Learn More" variant="secondary">Learn More</Button>
+            <Button 
+              title="Learn More" 
+              variant="secondary"
+              onClick={() => window.open('https://scarlet-knave-234.notion.site/Aspire-EASE-Unlock-Your-Career-Potential-24f02cd76a2180649a38d3310630ea69', '_blank')}
+            >
+              Learn More
+            </Button>
             <Button title="Sign Up" variant="link" size="link" iconRight={<RxChevronRight />}>
               Sign Up
             </Button>
