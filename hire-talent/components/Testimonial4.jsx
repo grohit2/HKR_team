@@ -16,8 +16,7 @@ export function Testimonial4() {
             <BiSolidStar className="size-6" />
           </div>
           <blockquote className="text-xl font-bold md:text-2xl">
-            "Working with this team transformed my job search experience. I
-            landed my dream role in just a few weeks!"
+            "HKR Team's personalized approach helped me land my dream role in just a few weeks. Their network is incredible!"
           </blockquote>
           <div className="mt-6 flex w-full flex-col items-center justify-center gap-3 text-center md:mt-8 md:w-auto md:flex-row md:gap-5 md:text-left">
             <div>
@@ -29,15 +28,7 @@ export function Testimonial4() {
             </div>
             <div className="mb-4 md:mb-0">
               <p>Emily Johnson</p>
-              <p>Software Engineer, TechCorp</p>
-            </div>
-            <div className="hidden w-px self-stretch bg-black md:block" />
-            <div>
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                alt="Webflow logo 1"
-                className="max-h-12"
-              />
+              <p>Product Manager, Microsoft</p>
             </div>
           </div>
         </div>
