@@ -2,13 +2,13 @@ import './globals.css';
 
 export const metadata = {
   title: 'HKR Team - Land a Full-Time Role You\'ll Love | Career Success Platform',
-  description: 'Join over 2,000 successful placements at 500+ leading US companies. Access exclusive job openings, get personal recruiter support within 24 hours, and unlock your career potential with proven results.',
+  description: 'Join over 50 successful placements at 500+ leading US companies. Access exclusive job openings, get personal recruiter support within 24 hours, and unlock your career potential with proven results.',
   keywords: 'career placement, job search, recruitment services, full-time jobs, career growth, professional development, US companies, job opportunities',
   author: 'HKR Team',
   robots: 'index, follow',
   openGraph: {
     title: 'HKR Team - Land a Full-Time Role You\'ll Love',
-    description: 'Join over 2,000 successful placements at 500+ leading US companies. Access exclusive job openings and unlock your career potential.',
+    description: 'Join over 50 successful placements at 500+ leading US companies. Access exclusive job openings and unlock your career potential.',
     type: 'website',
     url: 'https://hkrteam.com',
     images: [
@@ -23,7 +23,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'HKR Team - Land a Full-Time Role You\'ll Love',
-    description: 'Join over 2,000 successful placements at 500+ leading US companies. Access exclusive job openings and unlock your career potential.',
+    description: 'Join over 50 successful placements at 500+ leading US companies. Access exclusive job openings and unlock your career potential.',
     images: ['https://hkrteam.com/twitter-image.jpg'],
   },
 };

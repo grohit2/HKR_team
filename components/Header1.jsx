@@ -13,7 +13,7 @@ export function Header1() {
               Land a Full-Time Role You’ll Love
             </h1>
             <p className="md:text-md">
-              Join over 2,000 successful placements at more than 500 leading US
+              Join over 50 successful placements at more than 500 leading US
               companies. Discover opportunities that align with your career
               aspirations and values.
             </p>

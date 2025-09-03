@@ -39,10 +39,10 @@ export default function LearnMore() {
           <div className="space-y-8">
             <div className="border-l-4 border-blue-500 pl-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">
-                Join 2,000+ Successful Placements at 500+ Leading US Companies
+                Join 50+ Successful Placements at 500+ Leading US Companies
               </h3>
               <p className="text-gray-700 leading-relaxed">
-                Our track record speaks for itself. We've successfully placed over 2,000 professionals at top-tier companies across the United States, from Fortune 500 enterprises to innovative startups.
+                Our track record speaks for itself. We've successfully placed over 50 professionals at top-tier companies across the United States, from Fortune 500 enterprises to innovative startups.
               </p>
             </div>
 
