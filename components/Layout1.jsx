@@ -23,14 +23,16 @@ export function Layout1() {
               <Button title="View" variant="secondary">
                 View
               </Button>
-              <Button
-                title="Apply"
-                variant="link"
-                size="link"
-                iconRight={<RxChevronRight />}
-              >
-                Apply
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button
+                  title="Apply"
+                  variant="link"
+                  size="link"
+                  iconRight={<RxChevronRight />}
+                >
+                  Apply
+                </Button>
+              </a>
             </div>
           </div>
           <div>

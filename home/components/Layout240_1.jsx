@@ -63,9 +63,11 @@ export function Layout240_1() {
               Access top-tier professionals who can drive your projects forward.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Join Us
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Join Us
+                </Button>
+              </a>
             </div>
           </div>
           <div className="flex w-full flex-col items-center text-center">

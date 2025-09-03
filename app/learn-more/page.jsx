@@ -137,11 +137,13 @@ export default function LearnMore() {
           </p>
           
           <div className="space-y-4 sm:space-y-0 sm:space-x-4 sm:flex sm:justify-center">
-            <Button 
-              className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg font-semibold w-full sm:w-auto"
-            >
-              Apply Now
-            </Button>
+            <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+              <Button 
+                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg font-semibold w-full sm:w-auto"
+              >
+                Apply Now
+              </Button>
+            </a>
             <Button 
               variant="secondary"
               className="border-2 border-gray-300 text-gray-700 hover:bg-gray-50 px-8 py-3 text-lg font-semibold w-full sm:w-auto"

@@ -56,14 +56,16 @@ export function Layout10() {
               <Button title="Learn More" variant="secondary">
                 Learn More
               </Button>
-              <Button
-                title="Sign Up"
-                variant="link"
-                size="link"
-                iconRight={<RxChevronRight />}
-              >
-                Sign Up
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button
+                  title="Sign Up"
+                  variant="link"
+                  size="link"
+                  iconRight={<RxChevronRight />}
+                >
+                  Sign Up
+                </Button>
+              </a>
             </div>
           </div>
           <div>

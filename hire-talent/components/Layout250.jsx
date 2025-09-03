@@ -73,9 +73,11 @@ export function Layout250() {
               Explore roles in Software Engineering, Marketing, Sales, and more.
             </p>
             <div className="mt-6 flex gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Join
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Join
+                </Button>
+              </a>
             </div>
           </div>
         </div>

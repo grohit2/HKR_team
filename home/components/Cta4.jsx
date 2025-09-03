@@ -15,10 +15,9 @@ export function Cta4() {
             Unlock your potential with personalized job opportunities tailored just for you.
           </p>
           <div className="mt-6 w-full max-w-sm md:mt-8">
-            <form className="rb-4 mb-4 grid max-w-sm grid-cols-1 gap-y-3 sm:grid-cols-[1fr_max-content] sm:gap-4">
-              <Input id="email" type="email" placeholder="Your email address" />
-              <Button title="Join Now">Join Now</Button>
-            </form>
+            <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+              <Button title="Join Now" className="w-full">Join Now</Button>
+            </a>
             <div
               dangerouslySetInnerHTML={{
                 __html: `

@@ -34,9 +34,11 @@ export function Layout240() {
               rest.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Apply
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Apply
+                </Button>
+              </a>
             </div>
           </div>
           <div className="flex w-full flex-col items-center text-center">
@@ -57,9 +59,11 @@ export function Layout240() {
             </h3>
             <p>Engage with employers who value your skills and experience.</p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Connect
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Connect
+                </Button>
+              </a>
             </div>
           </div>
           <div className="flex w-full flex-col items-center text-center">
@@ -82,9 +86,11 @@ export function Layout240() {
               you.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Join
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Join
+                </Button>
+              </a>
             </div>
           </div>
         </div>

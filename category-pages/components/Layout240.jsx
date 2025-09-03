@@ -48,9 +48,11 @@ export function Layout240() {
               Get expert guidance to navigate your job search and career path.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Sign Up
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Sign Up
+                </Button>
+              </a>
             </div>
           </div>
           <div className="flex w-full flex-col items-center text-center">
@@ -69,9 +71,11 @@ export function Layout240() {
               ambitions.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button iconRight={<RxChevronRight />} variant="link" size="link">
-                Apply Now
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button iconRight={<RxChevronRight />} variant="link" size="link">
+                  Apply Now
+                </Button>
+              </a>
             </div>
           </div>
         </div>

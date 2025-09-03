@@ -54,9 +54,11 @@ export function Layout16() {
               </li>
             </ul>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-              <Button title="Connect" variant="secondary">
-                Connect
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button title="Connect" variant="secondary">
+                  Connect
+                </Button>
+              </a>
               <Button
                 title="Learn More"
                 variant="link"

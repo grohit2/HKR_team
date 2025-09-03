@@ -84,9 +84,11 @@ export function Comparison1() {
           {/* CTAs */}
           <div className="mt-12 flex flex-wrap items-center justify-center gap-4 md:mt-18 lg:mt-20">
             <Button title="Learn More" variant="secondary">Learn More</Button>
-            <Button title="Sign Up" variant="link" size="link" iconRight={<RxChevronRight />}>
-              Sign Up
-            </Button>
+            <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+              <Button title="Sign Up" variant="link" size="link" iconRight={<RxChevronRight />}>
+                Sign Up
+              </Button>
+            </a>
           </div>
         </div>
       </div>

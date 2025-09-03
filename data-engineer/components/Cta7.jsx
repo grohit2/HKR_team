@@ -18,7 +18,9 @@ export function Cta7() {
           </div>
         </div>
         <div className="flex items-start justify-start gap-4">
-          <Button title="Apply">Apply</Button>
+          <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+            <Button title="Apply">Apply</Button>
+          </a>
           <Button title="Learn More" variant="secondary">
             Learn More
           </Button>

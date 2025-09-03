@@ -22,9 +22,11 @@ export function Header47() {
             </p>
             <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
               <Button title="Explore">Explore</Button>
-              <Button title="Apply" variant="secondary">
-                Apply
-              </Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button title="Apply" variant="secondary">
+                  Apply
+                </Button>
+              </a>
             </div>
           </div>
         </div>

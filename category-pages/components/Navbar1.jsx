@@ -48,8 +48,9 @@ export function Navbar1() {
         <div className="flex min-h-16 items-center justify-between px-[5%] md:min-h-18 lg:min-h-full lg:px-0">
           <a href="#">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg"
+              src="/logo_grey.jpeg"
               alt="Logo image"
+              className="h-8 w-auto md:h-10 lg:h-12 object-contain"
             />
           </a>
           <button
@@ -185,17 +186,21 @@ export function Navbar1() {
             </AnimatePresence>
           </div>
           <div className="mt-6 flex flex-col items-center gap-4 lg:mt-0 lg:ml-4 lg:flex-row">
-            <Button
-              title="Apply"
-              variant="secondary"
-              size="sm"
-              className="w-full"
-            >
-              Apply
-            </Button>
-            <Button title="Join" size="sm" className="w-full">
-              Join
-            </Button>
+            <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+              <Button
+                title="Apply"
+                variant="secondary"
+                size="sm"
+                className="w-full"
+              >
+                Apply
+              </Button>
+            </a>
+            <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+              <Button title="Join" size="sm" className="w-full">
+                Join
+              </Button>
+            </a>
           </div>
         </motion.div>
       </div>

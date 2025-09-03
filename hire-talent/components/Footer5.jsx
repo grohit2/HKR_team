@@ -63,7 +63,7 @@ export function Footer5() {
             className="sm:col-start-1 sm:col-end-4 sm:row-start-1 sm:row-end-2 lg:col-start-auto lg:col-end-auto lg:row-start-auto lg:row-end-auto"
           >
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg"
+              src="/logo_grey.jpeg"
               alt="Logo image"
             />
           </a>

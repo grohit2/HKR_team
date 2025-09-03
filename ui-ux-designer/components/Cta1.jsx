@@ -17,7 +17,9 @@ export function Cta1() {
               design career today!
             </p>
             <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
-              <Button title="Apply">Apply</Button>
+              <a href="https://forms.gle/FRnfmNcaAUhkkq2b6" target="_blank" rel="noopener noreferrer">
+                <Button title="Apply">Apply</Button>
+              </a>
               <Button title="Learn More" variant="secondary">
                 Learn More
               </Button>
