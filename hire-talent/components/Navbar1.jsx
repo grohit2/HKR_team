@@ -48,7 +48,7 @@ export function Navbar1() {
         <div className="flex min-h-16 items-center justify-between px-[5%] md:min-h-18 lg:min-h-full lg:px-0">
           <a href="#">
             <img
-              src="/logo_grey.jpeg"
+              src="/justlogo-cropped.jpeg"
               alt="Logo image"
               className="h-8 w-auto md:h-10 lg:h-12 object-contain"
             />
